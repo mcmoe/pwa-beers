@@ -1,0 +1,6 @@
+{
+  "name": "pwa-beers",
+  "short_name": "pwa-beers",
+  "start_url": "/",
+  "display": "standalone"
+}
